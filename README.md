@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ibraahim Abdullaahi ibraabim</h1>
+<h1 align="center">Hi 👋, I'm ibraahim Abdullaahi ibraahim</h1>
 <h3 align="center">A passionate Web developer</h3>
 
 - ⚡ Fun fact **coding**
