@@ -5,16 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/brahim1-dev/brahim1-dev](https://github.com/brahim1-dev/brahim1-dev)
 
-- 💬 Ask me about **Javascrip, React and others**
-
-- 📫 How to reach me **iprowpoi7@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/brahim1-dev/brahim1-dev](https://github.com/brahim1-dev/brahim1-dev)
-
 - ⚡ Fun fact **coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫 How to reach me **iprowpoi7@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
