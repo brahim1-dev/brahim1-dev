@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **iprowpoi7@gmail.com** For Collaboration/Project or Anythi
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🔗 I am a Content Creator. 😊😊
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok.com/brahimorignal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok.com/brahimorignal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube.com/@BRAHIM-nt3w)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=brahim1-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=brahim1-dev&theme=dark&hide_border=false)<br/>
