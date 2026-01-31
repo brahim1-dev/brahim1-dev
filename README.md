@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Brahim</h1>
+<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/7bef403d-2c38-4f20-89eb-d3790aa706bd" /><img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/f9e6878f-dd0f-415e-8bbf-255cc4ea80dd" /><img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/04c6d565-a113-4d25-98cc-a24bd571da4d" /><h1 align="center">Hi 👋, I'm Brahim</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2deac39daa0924a345790ce050107aa19c8c49dbc73aa6fce086b83bc95fe784/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966">
 - 🌱 I’m currently learning **typscript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brahim1-dev/brahim1-dev](https://github.com/brahim1-dev/brahim1-dev)
