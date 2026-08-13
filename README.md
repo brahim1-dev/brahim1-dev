@@ -5,11 +5,11 @@ Email Me 👉 ✉️ **iprowpoi7@gmail.com** For Collaboration/Project or Anythi
 
 - 🔭 **I’m currently working on:*another petter all of them*.
 - 🌱 **I’m currently learning:** ReactNative
-- 👯 **I’m looking to collaborate on:** Toror and Leano and etc.
+- 👯 **I’m looking to collaborate on:** COOL PROJECT.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** iprowpoi7@gmail.com
 - 😄 **Pronouns:** Brahim
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me 
 - You can saw my projects into netlify ' https://app.netlify.com/teams/brahim1-dev/projects ';
 
 ## 🔗 I am a Content Creator. 😊😊
